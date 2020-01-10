@@ -1,0 +1,6 @@
+---
+title: "Proposal"
+author: "Selena Chavez"
+date: "1/10/2020"
+output: pdf_document
+---
